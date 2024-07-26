@@ -1,1 +1,2 @@
-html estrucutra
+html estructura
+cambio en el index 
