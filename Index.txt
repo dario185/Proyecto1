@@ -1,2 +1,5 @@
 html estructura
 cambio en el index 
+
+
+se agrego estilos al header
